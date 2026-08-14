@@ -1,6 +1,6 @@
 # Tushar Ojha — Portfolio
 
-**Live site:** [tushar-ojha-portfolio.vercel.app](https://tushar-ojha-portfolio.vercel.app/)
+**Live site:** [portfolio-pi-seven-5gwcly43jx.vercel.app](https://portfolio-pi-seven-5gwcly43jx.vercel.app/)
 
 ## About Me
 
